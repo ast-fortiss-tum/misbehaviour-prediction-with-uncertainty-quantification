@@ -1,0 +1,13 @@
+model,aggregation_type,simulation_name,failures,detected,undetected,undetectable,ttm,accuracy,fpr,precision,recall,f3
+dave2-p10-track1-mcd_20_S128,max,DAVE2-Track1-DayNightRain,2,2,0,0,1,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,max,DAVE2-Track1-DayNightRain,2,2,0,0,2,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,max,DAVE2-Track1-DayNightRain,2,2,0,0,3,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,mean,DAVE2-Track1-DayNightRain,2,2,0,0,1,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,mean,DAVE2-Track1-DayNightRain,2,2,0,0,2,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,mean,DAVE2-Track1-DayNightRain,2,2,0,0,3,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,max,DAVE2-Track1-Rain,2,2,0,0,1,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,max,DAVE2-Track1-Rain,2,2,0,0,2,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,max,DAVE2-Track1-Rain,2,2,0,0,3,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,mean,DAVE2-Track1-Rain,2,2,0,0,1,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,mean,DAVE2-Track1-Rain,2,2,0,0,2,93,7,4,100,29
+dave2-p10-track1-mcd_20_S128,mean,DAVE2-Track1-Rain,2,2,0,0,3,93,7,4,100,29
