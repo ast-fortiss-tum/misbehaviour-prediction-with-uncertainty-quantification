@@ -1,5 +1,27 @@
-# UQ for failure prediction in ADS
-Artifacts accompanying the paper "Predicting Safety Misbehaviours in Autonomous Driving Systems using Uncertainty Quantification" published at (ICST 2024) and the master's thesis: "Uncertainty Quantification for Failure Prediction in Autonomous Driving Systems". The codebase is based on previous work that is available [here](https://tsigalko18.github.io/assets/pdf/2022-Stocco-ASE.pdf).
+# Uncertainty Quantification for Failure Prediction in Autonomous Driving Systems
+
+Codebase related to the master's thesis "Uncertainty Quantification for Failure Prediction in Autonomous Driving Systems" by Ruben Grewal. 
+
+The repository also contains the artifacts accompanying the paper "*Predicting Safety Misbehaviours in Autonomous Driving Systems using Uncertainty Quantification*" by R. Grewal, P. Tonella and A. Stocco, published in the proceedings of the 17th IEEE International Conference on Software Testing, Verification and Validation (ICST 2024).  The codebase is based on previous work that is available [here](https://tsigalko18.github.io/assets/pdf/2022-Stocco-ASE.pdf).
+
+A preprint of the paper can be found on [here](https://tsigalko18.github.io/assets/pdf/2024-Grewal-ICST.pdf).
+
+## Reference
+
+If you use our work in your research, or it helps it, or if you simply like it, please cite it in your publications. 
+Here is an example BibTeX entry:
+
+```
+@inproceedings{2024-Grewal-ICST, 
+  author = {Ruben Grewal and Paolo Tonella and Andrea Stocco},
+  title = {Predicting Safety Misbehaviours in Autonomous Driving Systems using Uncertainty Quantification},
+  booktitle = {Proceedings of 17th IEEE International Conference on Software Testing, Verification and Validation},
+  series = {ICST '24},
+  publisher = {IEEE},
+  abbr = {ICST},
+  year = {2024}
+}
+```
 
 ## Dependencies
 
